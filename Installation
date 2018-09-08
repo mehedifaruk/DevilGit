@@ -1,0 +1,7 @@
+Install Opecv with python 
+
+[sudo apt install python3-opencv] 
+
+Install Opencv with PPA 
+
+[sudo add-apt-repository ppa:timsc / opencv-3.3 
